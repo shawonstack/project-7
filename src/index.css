@@ -10,7 +10,7 @@
 
 @layer components {
   .status-overdue {
-    @apply bg-red-100 text-red-700 border border-red-200;
+    @apply bg-red-300 text-red-700 border border-red-200;
   }
   .status-almost-due {
     @apply bg-amber-100 text-amber-700 border border-amber-200;
