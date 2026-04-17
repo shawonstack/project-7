@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Abdul Al Jihad",
+    "picture": "/jihad.jpg",
+    "email": "jihad@gmail.com",
+    "days_since_contact": 18,
+    "status": "on-track",
+    "tags": ["Work", "Mentor"],
+    "bio": "He works in airline ticket monitoring. He is responsible for managing and tracking ticket operations efficiently.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Tarek Mahmud",
+    "picture": "/tareq.jpg",
+    "email": "tareq@gamil.com",
+    "days_since_contact": 5,
+    "status": "overdue",
+    "tags": ["university", "close friend"],
+    "bio": "works at a travel agency. He is passionate about his work and always eager to learn more",
+    "goal": 7,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 3,
+    "name": "Mahdi Hasan",
+    "picture": "/hasan.png",
+    "email": "nusrat.jahan@yahoo.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["family", "cousin"],
+    "bio": "He is a civil engineer. Among friends, he is the fastest to fall asleep during adda",
+    "goal": 14,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 4,
+    "name": "Mainul Shuvo",
+    "picture": "/shuvo.jpg",
+    "email": "rifat.karim@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["college", "gym buddy"],
+    "bio": "He works in the banking sector. He is dedicated and a positive thinker",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 5,
+    "name": "Shawon Islam",
+    "picture": "/shawon.png",
+    "email": "sumaiya.akter@protonmail.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["childhood", "close friend"],
+    "bio": "Best friend since Class 3. We've survived through everything together — school, heartbreaks, and career struggles. Life got busy but she's irreplaceable.",
+    "goal": 21,
+    "next_due_date": "2026-04-01"
+  },
+  {
+    "id": 6,
+    "name": "Navil Khan",
+    "picture": "/nabil.jpg",
+    "email": "imran.chowdhury@gmail.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["work", "colleague"],
+    "bio": "Frontend dev at my current company. We collaborate daily on product design and often grab lunch together. Great guy with an eye for clean UI.",
+    "goal": 10,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 7,
+    "name": "jakir Hossain",
+    "picture": "/jakir.png",
+    "email": "sabrina.islam@gmail.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["university", "project partner"],
+    "bio": "My thesis partner in final year. We spent six months drowning in research papers together. She moved to Sylhet after graduation and we rarely talk now.",
+    "goal": 30,
+    "next_due_date": "2026-03-20"
+  },
+  {
+    "id": 8,
+    "name": "Atik Hasan",
+    "picture": "/atik.jpg",
+    "email": "mahfuz.ahmed@gmail.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["close friend", "neighbour"],
+    "bio": "Grew up on the same street in Mirpur. We've been friends for over 15 years. He's my go-to person whenever I need honest, unfiltered advice.",
+    "goal": 7,
+    "next_due_date": "2026-04-25"
+  }
+]
